@@ -1,0 +1,22 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "hangman game with node",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmbernie/constructor-hangman.git"
+  },
+  "author": "jesse bernier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmbernie/constructor-hangman/issues"
+  },
+  "homepage": "https://github.com/jmbernie/constructor-hangman#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
